@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Layout Fragment Camera FrameLayout-->
+    <dimen name="activity_camera_margin">20dp</dimen>
+    <dimen name="activity_camera_wight_margin">45dp</dimen>
+    <dimen name="activity_camera_height_margin">45dp</dimen>
+    <dimen name="activity_camera_height_view">60dp</dimen>
+    <dimen name="focus_size">100dp</dimen>
+    <dimen name="status_bar_height">20dp</dimen>
+
+</resources>
