@@ -49,7 +49,6 @@ import asiantech.dev.customcamera.Helpers.Helpers;
 import asiantech.dev.customcamera.camera.OrientationListener;
 import asiantech.dev.customcamera.camera.ResizeSurfaceView;
 import asiantech.dev.customcamera.camera.SaveTakeImage;
-import asiantech.dev.customcamera.service.SaveService;
 
 import static android.os.Build.VERSION;
 import static android.os.Build.VERSION_CODES;
@@ -296,11 +295,11 @@ public class CameraActivity extends Activity implements Callback, OnClickListene
                 //  new TakeImage(getApplicationContext(), mCamera , mRotation , cameraId);
                 TakeImageSave();
 //                mBtnTakeImage.setEnabled(false);
-                Intent intent = new Intent(this, SaveService.class);
-                intent.putExtra(CameraActivity.KEY_ROTATION, mRotation);
-                intent.putExtra(CameraActivity.KEY_CAMERA_ID, cameraId);
-                intent.putExtra(CameraActivity.KEY_CAMERA_DATA, mData);
-                startService(intent);
+//                Intent intent = new Intent(this, SaveService.class);
+//                intent.putExtra(CameraActivity.KEY_ROTATION, mRotation);
+//                intent.putExtra(CameraActivity.KEY_CAMERA_ID, cameraId);
+//                intent.putExtra(CameraActivity.KEY_CAMERA_DATA, mData);
+//                startService(intent);
                 break;
             default:
                 break;
@@ -444,24 +443,24 @@ public class CameraActivity extends Activity implements Callback, OnClickListene
 //                    Log.d(TAG, "Error creating media file, check storage permissions: ");
 //                }
 //                SaveImage(pictureFiles, mData);
-//        mCamera.setPreviewCallback(new Camera.PreviewCallback() {
-//            @Override
-//            public void onPreviewFrame(byte[] data, Camera camera) {
-//                final File pictureFiles = SaveTakeImage.getOutputMediaFile(SaveTakeImage.MEDIA_TYPE_IMAGE);
-//                Log.d("qqq", pictureFiles.getPath());
-//                mData = data;
-//              //  saveBitmap(camera, pictureFiles.getPath(), data);
-//            }
-//        });
-
-        mCamera.takePicture(null, null, new Camera.PictureCallback() {
+        mCamera.setPreviewCallback(new Camera.PreviewCallback() {
             @Override
-            public void onPictureTaken(byte[] data, Camera camera) {
+            public void onPreviewFrame(byte[] data, Camera camera) {
                 final File pictureFiles = SaveTakeImage.getOutputMediaFile(SaveTakeImage.MEDIA_TYPE_IMAGE);
                 Log.d("qqq", pictureFiles.getPath());
                 mData = data;
+                saveBitmap(camera, pictureFiles.getPath(), data);
             }
         });
+
+//        mCamera.takePicture(null, null, new Camera.PictureCallback() {
+//            @Override
+//            public void onPictureTaken(byte[] data, Camera camera) {
+//                final File pictureFiles = SaveTakeImage.getOutputMediaFile(SaveTakeImage.MEDIA_TYPE_IMAGE);
+//                Log.d("qqq", pictureFiles.getPath());
+//                mData = data;
+//            }
+//        });
 
     }
 
