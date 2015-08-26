@@ -6,552 +6,38 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="TAG" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="beb58d7f-396b-4100-98ca-cae5568de91c" name="Default" comment="cameraopencv">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Algorithm.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Algorithm.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/AsyncServiceHelper$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/AsyncServiceHelper$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/AsyncServiceHelper$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/AsyncServiceHelper$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/AsyncServiceHelper$3$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/AsyncServiceHelper$3$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/AsyncServiceHelper$3$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/AsyncServiceHelper$3$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/AsyncServiceHelper$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/AsyncServiceHelper$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/AsyncServiceHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/AsyncServiceHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/video/BackgroundSubtractor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/video/BackgroundSubtractor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/video/BackgroundSubtractorMOG.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/video/BackgroundSubtractorMOG.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/video/BackgroundSubtractorMOG2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/video/BackgroundSubtractorMOG2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/BaseLoaderCallback$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/BaseLoaderCallback$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/BaseLoaderCallback$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/BaseLoaderCallback$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/BaseLoaderCallback$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/BaseLoaderCallback$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/BaseLoaderCallback$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/BaseLoaderCallback$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/BaseLoaderCallback$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/BaseLoaderCallback$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/BaseLoaderCallback$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/BaseLoaderCallback$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/BaseLoaderCallback$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/BaseLoaderCallback$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/BaseLoaderCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/BaseLoaderCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/imgproc/CLAHE.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/imgproc/CLAHE.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/calib3d/Calib3d.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/calib3d/Calib3d.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/CameraBridgeViewBase$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/CameraBridgeViewBase$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/CameraBridgeViewBase$CvCameraViewFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/CameraBridgeViewBase$CvCameraViewFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/CameraBridgeViewBase$CvCameraViewListenerAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/CameraBridgeViewBase$CvCameraViewListenerAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/CameraBridgeViewBase$ListItemAccessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/CameraBridgeViewBase$ListItemAccessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/CameraBridgeViewBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/CameraBridgeViewBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/objdetect/CascadeClassifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/objdetect/CascadeClassifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/contrib/Contrib.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/contrib/Contrib.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/utils/Converters.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/utils/Converters.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Core$MinMaxLocResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Core$MinMaxLocResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Core.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Core.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvANN_MLP.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvANN_MLP.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvANN_MLP_TrainParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvANN_MLP_TrainParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvBoost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvBoost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvBoostParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvBoostParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvDTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvDTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvDTreeParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvDTreeParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvERTrees.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvERTrees.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/CvException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/CvException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvGBTrees.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvGBTrees.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvGBTreesParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvGBTreesParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvKNearest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvKNearest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvNormalBayesClassifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvNormalBayesClassifier.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvParamGrid.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvParamGrid.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvRTParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvRTParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvRTrees.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvRTrees.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvSVM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvSVM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvSVMParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvSVMParams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/CvStatModel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/CvStatModel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/CvType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/CvType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/features2d/DMatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/features2d/DMatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/features2d/DescriptorExtractor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/features2d/DescriptorExtractor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/features2d/DescriptorMatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/features2d/DescriptorMatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/gpu/DeviceInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/gpu/DeviceInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/EM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/EM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/contrib/FaceRecognizer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/contrib/FaceRecognizer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/features2d/FeatureDetector.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/features2d/FeatureDetector.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/features2d/Features2d.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/features2d/Features2d.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/FpsMeter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/FpsMeter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/features2d/GenericDescriptorMatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/features2d/GenericDescriptorMatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/gpu/Gpu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/gpu/Gpu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/objdetect/HOGDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/objdetect/HOGDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/highgui/Highgui.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/highgui/Highgui.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/imgproc/Imgproc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/imgproc/Imgproc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/InstallCallbackInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/InstallCallbackInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/JavaCameraView$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/JavaCameraView$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/JavaCameraView$CameraWorker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/JavaCameraView$CameraWorker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/JavaCameraView$JavaCameraFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/JavaCameraView$JavaCameraFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/JavaCameraView$JavaCameraSizeAccessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/JavaCameraView$JavaCameraSizeAccessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/JavaCameraView.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/JavaCameraView.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/video/KalmanFilter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/video/KalmanFilter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/features2d/KeyPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/features2d/KeyPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/LoaderCallbackInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/LoaderCallbackInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Mat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Mat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfByte.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfByte.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfDMatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfDMatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfDouble.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfDouble.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfFloat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfFloat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfFloat4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfFloat4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfFloat6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfFloat6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfInt.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfInt.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfInt4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfInt4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfKeyPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfKeyPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfPoint2f.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfPoint2f.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfPoint3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfPoint3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfPoint3f.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfPoint3f.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/MatOfRect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/MatOfRect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/ml/Ml.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/ml/Ml.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/imgproc/Moments.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/imgproc/Moments.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/NativeCameraView$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/NativeCameraView$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/NativeCameraView$CameraWorker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/NativeCameraView$CameraWorker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/NativeCameraView$NativeCameraFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/NativeCameraView$NativeCameraFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/NativeCameraView$OpenCvSizeAccessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/NativeCameraView$OpenCvSizeAccessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/NativeCameraView.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/NativeCameraView.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/objdetect/Objdetect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/objdetect/Objdetect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/engine/OpenCVEngineInterface$Stub$Proxy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/engine/OpenCVEngineInterface$Stub$Proxy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/engine/OpenCVEngineInterface$Stub.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/engine/OpenCVEngineInterface$Stub.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/engine/OpenCVEngineInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/engine/OpenCVEngineInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/OpenCVLoader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/OpenCVLoader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/photo/Photo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/photo/Photo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Point.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Point.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Point3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Point3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Range.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Range.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Rect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Rect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/RotatedRect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/RotatedRect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Scalar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Scalar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/Size.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/Size.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/StaticHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/StaticHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/calib3d/StereoBM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/calib3d/StereoBM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/calib3d/StereoSGBM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/calib3d/StereoSGBM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/contrib/StereoVar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/contrib/StereoVar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/imgproc/Subdiv2D.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/imgproc/Subdiv2D.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/gpu/TargetArchs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/gpu/TargetArchs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/core/TermCriteria.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/core/TermCriteria.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/android/Utils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/android/Utils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/video/Video.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/video/Video.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/debug/org/opencv/highgui/VideoCapture.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/classes/release/org/opencv/highgui/VideoCapture.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/debug/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/release/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/aidl/androidTest/debug/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/aidl/debug/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/aidl/release/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/resources/inherit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/bin/opencv library - 2.4.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/outputs/aar/opencv-debug.aar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/outputs/aar/opencv-release.aar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Algorithm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Algorithm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/bin/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/AsyncServiceHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/video/BackgroundSubtractor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/video/BackgroundSubtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/video/BackgroundSubtractorMOG.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/video/BackgroundSubtractorMOG.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/video/BackgroundSubtractorMOG2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/video/BackgroundSubtractorMOG2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/BaseLoaderCallback.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/BaseLoaderCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/buildConfig/androidTest/debug/org/opencv/test/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/buildConfig/debug/org/opencv/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/buildConfig/release/org/opencv/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/imgproc/CLAHE.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/imgproc/CLAHE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/calib3d/Calib3d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/calib3d/Calib3d.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewFrame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewListener.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewListener2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/CameraBridgeViewBase.ListItemAccessor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/CameraBridgeViewBase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/CameraBridgeViewBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/objdetect/CascadeClassifier.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/objdetect/CascadeClassifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/contrib/Contrib.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/utils/Converters.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/utils/Converters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Core.MinMaxLocResult.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Core.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Core.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvANN_MLP.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvANN_MLP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvANN_MLP_TrainParams.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvANN_MLP_TrainParams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvBoost.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvBoost.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvBoostParams.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvBoostParams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvDTree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvDTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvDTreeParams.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvDTreeParams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvERTrees.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvERTrees.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/CvException.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/CvException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvGBTrees.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvGBTrees.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvGBTreesParams.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvGBTreesParams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvKNearest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvKNearest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvNormalBayesClassifier.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvNormalBayesClassifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvParamGrid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvParamGrid.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvRTParams.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvRTParams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvRTrees.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvRTrees.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvSVM.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvSVM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvSVMParams.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvSVMParams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/CvStatModel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/CvStatModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/CvType.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/CvType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/DMatch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/features2d/DMatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/DescriptorExtractor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/features2d/DescriptorExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/DescriptorMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/features2d/DescriptorMatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/gpu/DeviceInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/EM.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/EM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/contrib/FaceRecognizer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/FeatureDetector.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/features2d/FeatureDetector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/Features2d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/features2d/Features2d.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/FpsMeter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/FpsMeter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/GenericDescriptorMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/features2d/GenericDescriptorMatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/gpu/Gpu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/objdetect/HOGDescriptor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/objdetect/HOGDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/highgui/Highgui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/highgui/Highgui.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/imgproc/Imgproc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/imgproc/Imgproc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/InstallCallbackInterface.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/InstallCallbackInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/JavaCameraView.JavaCameraSizeAccessor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/JavaCameraView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/JavaCameraView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/video/KalmanFilter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/video/KalmanFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/KeyPoint.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/features2d/KeyPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/LoaderCallbackInterface.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/LoaderCallbackInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/tmp/packageDebugJar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/tmp/packageReleaseJar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Mat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Mat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfByte.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfByte.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfDMatch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfDMatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfDouble.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfDouble.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfFloat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfFloat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfFloat4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfFloat4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfFloat6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfFloat6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfInt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfInt.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfInt4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfInt4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfKeyPoint.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfKeyPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfPoint.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfPoint2f.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfPoint2f.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfPoint3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfPoint3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfPoint3f.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfPoint3f.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/MatOfRect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/MatOfRect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/Ml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/ml/Ml.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/imgproc/Moments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/imgproc/Moments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/NativeCameraView.OpenCvSizeAccessor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/NativeCameraView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/NativeCameraView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/objdetect/Objdetect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/objdetect/Objdetect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/bin/aidl/org/opencv/engine/OpenCVEngineInterface.aidl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/javaResources/debug/org/opencv/engine/OpenCVEngineInterface.aidl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/javaResources/release/org/opencv/engine/OpenCVEngineInterface.aidl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/engine/OpenCVEngineInterface.aidl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/aidl/debug/org/opencv/engine/OpenCVEngineInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/aidl/release/org/opencv/engine/OpenCVEngineInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/OpenCVLoader.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/OpenCVLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/photo/Photo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/photo/Photo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Point.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Point3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Point3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/r/androidTest/debug/org/opencv/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/r/androidTest/debug/org/opencv/test/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/r/debug/org/opencv/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/r/release/org/opencv/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/bin/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/debug/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/symbols/androidTest/debug/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Range.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Range.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Rect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Rect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/RotatedRect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/RotatedRect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Scalar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Scalar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/Size.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/Size.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/StaticHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/calib3d/StereoBM.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/calib3d/StereoBM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/calib3d/StereoSGBM.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/calib3d/StereoSGBM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/contrib/StereoVar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/imgproc/Subdiv2D.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/imgproc/Subdiv2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/gpu/TargetArchs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/TermCriteria.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/core/TermCriteria.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/Utils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/android/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/video/Video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/video/Video.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/highgui/VideoCapture.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/src/org/opencv/highgui/VideoCapture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/res/values/attrs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/index-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/libs.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/lint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/manifests/tmp/manifestMerger8531043474377559389.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/release/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/packageResources/debug/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/packageResources/release/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/opencv.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/overview-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/overview-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/calib3d/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/highgui/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/imgproc/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/objdetect/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/photo/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/utils/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/video/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/calib3d/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/highgui/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/imgproc/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/objdetect/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/photo/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/utils/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/video/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/android/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/calib3d/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/core/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/features2d/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/highgui/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/imgproc/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/ml/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/objdetect/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/photo/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/utils/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/org/opencv/video/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/serialized-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/javadoc/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/res/androidTest/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/debug/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/bundles/release/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/aidl/debug/dependency.store" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/aidl/debug/dependency.store" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/aidl/release/dependency.store" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/aidl/release/dependency.store" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Camera.iml" afterPath="$PROJECT_DIR$/Camera.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/outputs/aar/opencv-debug.aar" afterPath="$PROJECT_DIR$/libs/opencv/build/outputs/aar/opencv-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/outputs/aar/opencv-release.aar" afterPath="$PROJECT_DIR$/libs/opencv/build/outputs/aar/opencv-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraOpenCvActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraOpenCvActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/generated/source/aidl/debug/org/opencv/engine/OpenCVEngineInterface.java" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/aidl/debug/org/opencv/engine/OpenCVEngineInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/generated/source/aidl/release/org/opencv/engine/OpenCVEngineInterface.java" afterPath="$PROJECT_DIR$/libs/opencv/build/generated/source/aidl/release/org/opencv/engine/OpenCVEngineInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeAssets/release/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/packageResources/debug/merger.xml" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/packageResources/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/packageResources/release/merger.xml" afterPath="$PROJECT_DIR$/libs/opencv/build/intermediates/incremental/packageResources/release/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_2_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -582,14 +68,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CameraActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6648936">
+              <caret line="74" column="56" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CameraFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/fragment/CameraFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CameraPreview.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/camera/CameraPreview.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4632207">
-              <caret line="60" column="70" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
-              <folding>
-                <element signature="e#2498#2516#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -597,10 +111,12 @@
       <file leaf-file-name="CameraOpenCvActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraOpenCvActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.819672">
-              <caret line="154" column="28" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#5031#5032#0" expanded="true" />
+                <element signature="e#5059#5060#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -608,14 +124,14 @@
       </file>
       <file leaf-file-name="activity_cameraopencv.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.354839">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -2921,7 +2437,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="5761875754384" />
+        <entry key="$PROJECT_DIR$" value="5761388206000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3087,11 +2603,11 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
-                            <option value="$USER_HOME$/AndroidStudioProjects/Android/Sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.2.1/appcompat-v7-22.2.1.aar" />
+                            <option value="$PROJECT_DIR$/../../Eclipese/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.2.1/appcompat-v7-22.2.1.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.2/4ba5e29842e59735a76c9ab3d8a24ac7eca19f14/androidannotations-api-3.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.2/89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1/androidannotations-api-3.2.jar" />
-                            <option value="$USER_HOME$/AndroidStudioProjects/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/22.2.1/support-v4-22.2.1.aar" />
-                            <option value="$USER_HOME$/AndroidStudioProjects/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar" />
+                            <option value="$PROJECT_DIR$/../../Eclipese/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/22.2.1/support-v4-22.2.1.aar" />
+                            <option value="$PROJECT_DIR$/../../Eclipese/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neenbedankt.gradle.plugins/android-apt/1.4/8cc08fdd043c3f61e4631f4abc982c3d17dd264c/android-apt-1.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neenbedankt.gradle.plugins/android-apt/1.4/2ee9dad8e86284f7518ae3818c4d269556567e92/android-apt-1.4.jar" />
                           </list>
@@ -3299,117 +2815,117 @@
               <option name="name" value="app" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ear" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/tooling-api-builders" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/tooling-api" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/osgi" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/core" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ui" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/jacoco" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/plugins" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/base-services" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/testing-native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/base-services-groovy" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/diagnostics" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/cli" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/launcher" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/resources-s3" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/scala" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/platform-native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-scala" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/code-quality" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/plugin-use" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/model-groovy" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/model-core" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/announce" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/platform-base" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ivy" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/jetty" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/resources-http" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ide-native" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/antlr" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/reporting" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/publish" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/plugin-development" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/native" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/resources" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ide" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-jvm" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/base-services" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/base-services-groovy" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/build-comparison" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/build-init" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/messaging" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/cli" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/code-quality" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/core" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/dependency-management" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/diagnostics" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ear" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ide" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ide-native" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/internal-integ-testing" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/internal-testing" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ivy" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/jacoco" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/javascript" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/jetty" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-groovy" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-java" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-jvm" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-scala" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/launcher" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/maven" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/messaging" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/model-core" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/model-groovy" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/open-api" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/osgi" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/platform-base" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/platform-jvm" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/platform-native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/platform-play" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/plugin-development" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/plugin-use" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/plugins" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/publish" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/reporting" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/resources" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/resources-http" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/resources-s3" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/resources-sftp" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/scala" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/signing" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/sonar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/platform-play" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/javascript" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/build-comparison" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/dependency-management" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/platform-jvm" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/testing-native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/tooling-api" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/tooling-api-builders" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/ui" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/wrapper" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/internal-testing" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/maven" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/language-java" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/resources-sftp" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/src/open-api" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-base-services-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/groovy-all-2.3.10.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-messaging-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/ant-launcher-1.9.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-tooling-api-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-cli-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-docs-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-native-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-ui-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-model-groovy-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-resources-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-launcher-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-core-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-wrapper-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/ant-1.9.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/ant-launcher-1.9.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-base-services-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-base-services-groovy-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-cli-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-core-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-docs-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-launcher-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-messaging-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-model-core-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-model-groovy-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-native-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-open-api-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-jacoco-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-scala-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-scala-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-javascript-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-resources-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-tooling-api-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-ui-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/gradle-wrapper-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/groovy-all-2.3.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-announce-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-antlr-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-maven-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-tooling-api-builders-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-ivy-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-ide-native-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-testing-native-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-platform-jvm-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-plugins-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-osgi-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-jetty-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-build-comparison-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-native-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-java-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-build-init-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-code-quality-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-dependency-management-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-diagnostics-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-ear-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-ide-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-platform-base-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-resources-s3-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-jvm-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-resources-sftp-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-platform-play-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-diagnostics-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-ide-native-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-ivy-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-jacoco-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-javascript-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-jetty-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-groovy-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-java-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-jvm-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-native-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-language-scala-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-maven-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-osgi-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-platform-base-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-platform-jvm-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-platform-native-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-publish-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-announce-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-resources-http-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-sonar-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-plugin-use-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-signing-2.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-code-quality-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-platform-play-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-plugin-development-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-plugin-use-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-plugins-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-publish-2.4.jar" />
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-reporting-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-resources-http-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-resources-s3-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-resources-sftp-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-scala-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-signing-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-sonar-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-testing-native-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/gradle-tooling-api-builders-2.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -3431,20 +2947,26 @@
         <option value="$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraOpencvActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cameratudong.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/activity_cameratudong.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraOpenCvActivity.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -3457,7 +2979,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -3470,6 +2992,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -3522,95 +3045,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="customcamera" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3640,50 +3074,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opencv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opencv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opencv" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3751,6 +3141,102 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Camera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Camera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Camera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Camera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customcamera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Camera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customcamera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Camera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customcamera" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3761,8 +3247,9 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="479004ecc5131038" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_21_x86" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -3984,35 +3471,35 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828686" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2190016" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.082125604" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14170693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.082125604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24920128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32800853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2190016" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -4028,11 +3515,96 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="77" selection-start-line="97" selection-start-column="77" selection-end-line="97" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/fragment/CameraFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/camera/CameraPreview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraOpenCvActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5031#5032#0" expanded="true" />
+            <element signature="e#5059#5060#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraOpenCvActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="154" column="28" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5031#5032#0" expanded="true" />
+            <element signature="e#5059#5060#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.5">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4040,7 +3612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4048,7 +3619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.4666667">
           <caret line="41" column="19" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4056,49 +3626,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_camera.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.387097">
           <caret line="7" column="42" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="42" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/fragment/CameraFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.354839">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/camera/CameraPreview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraOpenCvActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.819672">
-          <caret line="154" column="28" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#5031#5032#0" expanded="true" />
+            <element signature="e#5059#5060#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cameraopencv.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4632207">
-          <caret line="60" column="70" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
-          <folding>
-            <element signature="e#2498#2516#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/asiantech/dev/customcamera/CameraActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6648936">
+          <caret line="74" column="56" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>

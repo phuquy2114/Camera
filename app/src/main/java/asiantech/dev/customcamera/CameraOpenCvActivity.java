@@ -1,8 +1,16 @@
 package asiantech.dev.customcamera;
 
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.OutputStream;
+import android.app.Activity;
+import android.graphics.Bitmap;
+import android.os.Bundle;
+import android.os.Environment;
+import android.util.Log;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.View.OnTouchListener;
+import android.view.Window;
+import android.view.WindowManager;
+import android.widget.Button;
 
 import org.opencv.android.BaseLoaderCallback;
 import org.opencv.android.CameraBridgeViewBase;
@@ -14,16 +22,11 @@ import org.opencv.android.Utils;
 import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 
-import android.app.Activity;
-import android.graphics.Bitmap;
-import android.os.Bundle;
-import android.os.Environment;;
-import android.util.Log;
-import android.view.MotionEvent;
-import android.view.View;
-import android.view.View.OnTouchListener;
-import android.view.Window;
-import android.view.WindowManager;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.OutputStream;
+
+;
 
 
 public class CameraOpenCvActivity extends Activity implements
@@ -31,6 +34,7 @@ public class CameraOpenCvActivity extends Activity implements
 
     private Mat mRgba;
     private CameraBridgeViewBase mOpenCvCameraView;
+    private Button mBtnTakeImage;
     private int mCountImage = 0;
     private int mCountCamera = 0;
 
@@ -63,13 +67,19 @@ public class CameraOpenCvActivity extends Activity implements
     public void eventComponent() {
         mOpenCvCameraView.setCvCameraViewListener(this);
         mOpenCvCameraView.setOnTouchListener(this);
+        mBtnTakeImage.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                convertMattoBitmap();
+            }
+        });
     }
 
-    private void convertMattoBitmap(Mat mat) {
+    private void convertMattoBitmap() {
         Bitmap bmp;
         try {
-            bmp = Bitmap.createBitmap(mat.cols(), mat.rows(), Bitmap.Config.ARGB_8888);
-            Utils.matToBitmap(mat, bmp);
+            bmp = Bitmap.createBitmap(mRgba.cols(), mRgba.rows(), Bitmap.Config.ARGB_8888);
+            Utils.matToBitmap(mRgba, bmp);
             saveImageToExternalStorage(bmp);
 
         } catch (Exception e) {
@@ -110,9 +120,9 @@ public class CameraOpenCvActivity extends Activity implements
     }
 
     public void initComponent() {
-
         setContentView(R.layout.activity_cameraopencv);
         mOpenCvCameraView = (CameraBridgeViewBase) findViewById(R.id.cameraview);
+        mBtnTakeImage = (Button) findViewById(R.id.btnTakeImage);
     }
 
     @Override
@@ -152,11 +162,11 @@ public class CameraOpenCvActivity extends Activity implements
     public Mat onCameraFrame(CvCameraViewFrame inputFrame) {
 
         mRgba = inputFrame.rgba();
-        if (mCountCamera % 7 == 0) {
-            convertMattoBitmap(mRgba);
-
-        }
-        mCountCamera++;
+//        if (mCountCamera % 7 == 0) {
+//            convertMattoBitmap(mRgba);
+//
+//        }
+//        mCountCamera++;
         return mRgba;
     }
 

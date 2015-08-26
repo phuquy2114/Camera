@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/binc/data/duan/Camera/libs/opencv/src/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: /Users/phuquy/Documents/ProjectStudio/Camera/libs/opencv/src/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
