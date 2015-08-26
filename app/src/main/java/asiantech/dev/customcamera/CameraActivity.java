@@ -4,10 +4,12 @@ import android.annotation.TargetApi;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.ImageFormat;
@@ -20,8 +22,12 @@ import android.hardware.Camera.CameraInfo;
 import android.hardware.Camera.ErrorCallback;
 import android.hardware.Camera.Parameters;
 import android.media.MediaScannerConnection;
+import android.net.Uri;
+import android.os.AsyncTask;
+import android.provider.MediaStore;
 import android.util.Log;
 import android.view.ContextThemeWrapper;
+import android.view.Display;
 import android.view.MotionEvent;
 import android.view.Surface;
 import android.view.SurfaceHolder;
@@ -31,6 +37,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.GridView;
 import android.widget.Toast;
 
 import org.androidannotations.annotations.AfterViews;
@@ -46,9 +53,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 import asiantech.dev.customcamera.Helpers.Helpers;
+import asiantech.dev.customcamera.adapter.CustomListAdapter;
+import asiantech.dev.customcamera.adapter.ImageAdapter;
 import asiantech.dev.customcamera.camera.OrientationListener;
 import asiantech.dev.customcamera.camera.ResizeSurfaceView;
 import asiantech.dev.customcamera.camera.SaveTakeImage;
+import asiantech.dev.customcamera.model.LoadedImage;
+import asiantech.dev.customcamera.views.CenterLockHorizontalScrollview;
 
 import static android.os.Build.VERSION;
 import static android.os.Build.VERSION_CODES;
@@ -77,10 +88,24 @@ public class CameraActivity extends Activity implements Callback, OnClickListene
     public static final String KEY_ROTATION = "key_rotation";
     public static final String KEY_CAMERA_ID = "key_camera_id";
     public static final String KEY_CAMERA_DATA = "key_camera_data";
-    private byte [] mData;
+    private byte[] mData;
     private OrientationListener mOrientationListener;
     private static final String TAG = CameraActivity.class.getSimpleName();
     private PackageManager mPackageManager;
+
+    private Display display;
+
+    /**
+     * Creates the content view, sets up the grid, the adapter, and the click listener.
+     *
+     * @see android.app.Activity#onCreate(android.os.Bundle)
+     */
+    private ArrayList<LoadedImage> mArrayList;
+
+    private CenterLockHorizontalScrollview centerLockHorizontalScrollview;
+    private CustomListAdapter customListAdapter;
+
+    private ProgressDialog progress;
 
     private enum CameraMode {
         Off, On, Auto
@@ -96,7 +121,11 @@ public class CameraActivity extends Activity implements Callback, OnClickListene
     public void afterViews() {
         mPackageManager = getApplicationContext().getPackageManager();
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+        mArrayList = new ArrayList<>();
+        setProgressBarIndeterminateVisibility(true);
+        loadImages();
         initialize();
+        setupViews();
         setValues();
         setEvents();
     }
@@ -450,6 +479,7 @@ public class CameraActivity extends Activity implements Callback, OnClickListene
                 Log.d("qqq", pictureFiles.getPath());
                 mData = data;
                 saveBitmap(camera, pictureFiles.getPath(), data);
+              //  new LoadImagesFromSDCard().execute();
             }
         });
 
@@ -609,4 +639,126 @@ public class CameraActivity extends Activity implements Callback, OnClickListene
 
     }
 
+    /**
+     * Async task for loading the images from the SD card.
+     *
+     * @author Mihai Fonoage
+     */
+    class LoadImagesFromSDCard extends AsyncTask<Object, LoadedImage, Object> {
+
+        /**
+         * Load images from SD Card in the background, and display each image on the screen.
+         */
+        @Override
+        protected Object doInBackground(Object... params) {
+            //setProgressBarIndeterminateVisibility(true);
+            Bitmap bitmap = null;
+            Bitmap newBitmap = null;
+            Uri uri = null;
+
+            // Set up an array of the Thumbnail Image ID column we want
+            String[] projection = {MediaStore.Images.Thumbnails._ID};
+            // Create the cursor pointing to the SDCard
+            Cursor cursor = managedQuery(MediaStore.Images.Thumbnails.EXTERNAL_CONTENT_URI,
+                    projection, // Which columns to return
+                    null,       // Return all rows
+                    null,
+                    null);
+            int columnIndex = cursor.getColumnIndexOrThrow(MediaStore.Images.Thumbnails._ID);
+            int size = cursor.getCount();
+            // If size is 0, there are no images on the SD Card.
+            if (size == 0) {
+                //No Images available, post some message to the user
+            }
+            int imageID = 0;
+            for (int i = 0; i < size; i++) {
+                cursor.moveToPosition(i);
+                imageID = cursor.getInt(columnIndex);
+                uri = Uri.withAppendedPath(MediaStore.Images.Thumbnails.EXTERNAL_CONTENT_URI, "" + imageID);
+                try {
+                    bitmap = BitmapFactory.decodeStream(getContentResolver().openInputStream(uri));
+                    if (bitmap != null) {
+                        newBitmap = Bitmap.createScaledBitmap(bitmap, 70, 70, true);
+                        bitmap.recycle();
+                        if (newBitmap != null) {
+                            publishProgress(new LoadedImage(newBitmap));
+                        }
+                    }
+                } catch (IOException e) {
+                    //Error fetching image, try to recover
+                }
+            }
+            cursor.close();
+            return null;
+        }
+
+        /**
+         * Add a new LoadedImage in the images grid.
+         *
+         * @param value The image.
+         */
+        @Override
+        public void onProgressUpdate(LoadedImage... value) {
+            addLoader(value);
+        }
+
+        /**
+         * Set the visibility of the progress bar to false.
+         *
+         * @see android.os.AsyncTask#onPostExecute(java.lang.Object)
+         */
+        @Override
+        protected void onPostExecute(Object result) {
+            setProgressBarIndeterminateVisibility(false);
+         //   progress.dismiss();
+        }
+    }
+
+    /**
+     * Setup the grid view.
+     */
+    private void setupViews() {
+        centerLockHorizontalScrollview = (CenterLockHorizontalScrollview) findViewById(R.id.scrollView);
+        //custom list adapter
+        customListAdapter = new CustomListAdapter(getApplicationContext(), mArrayList);
+        centerLockHorizontalScrollview.setAdapter(customListAdapter);
+    }
+
+
+    private void addLoader(LoadedImage... value) {
+        for (LoadedImage image : value) {
+            mArrayList.add(image);
+            customListAdapter.notifyDataSetChanged();
+            centerLockHorizontalScrollview.setAdapter(customListAdapter);
+        }
+    }
+
+    /**
+     * Load images.
+     */
+    private void loadImages() {
+        final Object data = getLastNonConfigurationInstance();
+        if (data == null) {
+            new LoadImagesFromSDCard().execute();
+        } else {
+            final LoadedImage[] photos = (LoadedImage[]) data;
+            if (photos.length == 0) {
+                new LoadImagesFromSDCard().execute();
+            }
+            for (LoadedImage photo : photos) {
+                addImage(photo);
+            }
+        }
+    }
+
+    /**
+     * Add image(s) to the grid view adapter.
+     *
+     * @param value Array of LoadedImages references
+     */
+    private void addImage(LoadedImage... value) {
+        for (LoadedImage image : value) {
+            mArrayList.add(image);
+        }
+    }
 }
